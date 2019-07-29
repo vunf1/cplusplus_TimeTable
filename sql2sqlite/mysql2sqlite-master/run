@@ -1,0 +1,1 @@
+./mysql2sqlite dbStudent.sql | sqlite3 dbStudent.db
